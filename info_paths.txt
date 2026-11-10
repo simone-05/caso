@@ -1,0 +1,6 @@
+# Where to paste these files
+
+bashrc              ~/.bashrc
+bash_aliases        ~/.bash_aliases
+vimrc               ~/.vimrc
+inputrc             ~/.inputrc          e poi usarlo con: >bind -f ~/.inputrc Serve per attivare autocompletion quando faccio i link (ln -s path)

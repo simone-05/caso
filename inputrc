@@ -1,0 +1,5 @@
+# Cosi quando aggiungo un link (ln -s path dest) e
+# faccio tab completion da terminale, se e' una cartella
+# la tratta come cartella invece che fare doppio tab per
+# aggiungere un '/' alla fine
+set mark-symlinked-directories on
